@@ -1,0 +1,11 @@
+{
+    "name": "administrator/jeepney_ml",
+    "autoload": {
+        "psr-4": {
+            "Administrator\\JeepneyMl\\": "src/"
+        }
+    },
+    "require": {
+        "php-ai/php-ml": "^0.10.0"
+    }
+}

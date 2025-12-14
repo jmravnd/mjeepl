@@ -1,0 +1,62 @@
+[
+    {
+        "month": 1,
+        "day": 1,
+        "weather": " \u2600\ufe0f Sunny",
+        "start": 20,
+        "end": 23,
+        "route": "Route 2 (San Pablo \u2192 Wawa)",
+        "capacity": 19,
+        "passengers": 118,
+        "fare": 1239,
+        "time": "2025-12-13 10:57:25"
+    },
+    {
+        "month": 2,
+        "day": 3,
+        "weather": " \ud83c\udf27 Rainy",
+        "start": 19,
+        "end": 22,
+        "route": "Route 2 (San Pablo \u2192 Wawa)",
+        "capacity": 17,
+        "passengers": 88,
+        "fare": 924,
+        "time": "2025-12-13 10:56:55"
+    },
+    {
+        "month": 1,
+        "day": 1,
+        "weather": " \u2600\ufe0f Sunny",
+        "start": 11,
+        "end": 23,
+        "route": "Route 1 (San Pablo \u2192 Tanauan)",
+        "capacity": 19,
+        "passengers": 106,
+        "fare": 3233,
+        "time": "2025-12-13 10:56:35"
+    },
+    {
+        "month": 2,
+        "day": 2,
+        "weather": " \u2600\ufe0f Sunny",
+        "start": 15,
+        "end": 23,
+        "route": "Route 1 (San Pablo \u2192 Tanauan)",
+        "capacity": 17,
+        "passengers": 105,
+        "fare": 3202.5,
+        "time": "2025-12-13 10:54:56"
+    },
+    {
+        "month": 1,
+        "day": 1,
+        "weather": " \u2600\ufe0f Sunny",
+        "start": 19,
+        "end": 23,
+        "route": "Route 1 (San Pablo \u2192 Tanauan)",
+        "capacity": 17,
+        "passengers": 107,
+        "fare": 3263.5,
+        "time": "2025-12-13 10:50:09"
+    }
+]
